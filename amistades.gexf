@@ -1,0 +1,176 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gexf version="1.2" xmlns="http://www.gexf.net/1.2draft" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.w3.org/2001/XMLSchema-instance">
+  <graph defaultedgetype="directed" mode="static" name="">
+    <attributes class="edge" mode="static">
+      <attribute id="0" title="color" type="string" />
+    </attributes>
+    <meta>
+      <creator>NetworkX 2.3</creator>
+      <lastmodified>26/07/2019</lastmodified>
+    </meta>
+    <nodes>
+      <node id="ernestosamperp" label="ernestosamperp" />
+      <node id="pontifex_es" label="pontifex_es" />
+      <node id="NicolasMaduro" label="NicolasMaduro" />
+      <node id="mashirafael" label="mashirafael" />
+      <node id="lopezobrador_" label="lopezobrador_" />
+      <node id="ppkamigo" label="ppkamigo" />
+      <node id="evoespueblo" label="evoespueblo" />
+      <node id="mbachelet" label="mbachelet" />
+      <node id="realDonaldTrump" label="realDonaldTrump" />
+      <node id="jairbolsonaro" label="jairbolsonaro" />
+    </nodes>
+    <edges>
+      <edge id="0" source="ernestosamperp" target="pontifex_es" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="1" source="ernestosamperp" target="mbachelet" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="2" source="ernestosamperp" target="NicolasMaduro" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="3" source="ernestosamperp" target="mashirafael" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="4" source="ernestosamperp" target="lopezobrador_" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="5" source="ernestosamperp" target="realDonaldTrump" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="6" source="ernestosamperp" target="ppkamigo" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="7" source="ernestosamperp" target="evoespueblo" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="8" source="NicolasMaduro" target="pontifex_es" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="9" source="NicolasMaduro" target="mashirafael" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="10" source="NicolasMaduro" target="evoespueblo" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="11" source="mashirafael" target="pontifex_es" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="12" source="mashirafael" target="ernestosamperp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="13" source="mashirafael" target="NicolasMaduro" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="14" source="lopezobrador_" target="pontifex_es" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="15" source="lopezobrador_" target="ernestosamperp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="16" source="lopezobrador_" target="evoespueblo" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="17" source="ppkamigo" target="pontifex_es" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="18" source="ppkamigo" target="mbachelet" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="19" source="ppkamigo" target="NicolasMaduro" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="20" source="ppkamigo" target="mashirafael" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="21" source="ppkamigo" target="realDonaldTrump" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="22" source="ppkamigo" target="evoespueblo" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="23" source="evoespueblo" target="pontifex_es" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="24" source="evoespueblo" target="ernestosamperp" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="25" source="evoespueblo" target="NicolasMaduro" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="26" source="evoespueblo" target="mashirafael" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+      <edge id="27" source="evoespueblo" target="lopezobrador_" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="28" source="mbachelet" target="ppkamigo" weight="6">
+        <attvalues>
+          <attvalue for="0" value="r" />
+        </attvalues>
+      </edge>
+      <edge id="29" source="jairbolsonaro" target="realDonaldTrump" weight="2">
+        <attvalues>
+          <attvalue for="0" value="grey" />
+        </attvalues>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
