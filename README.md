@@ -1,7 +1,7 @@
 <center><img src="http://alacip.org/wp-content/uploads/2014/03/logoEscalacip1.png" width="700"></center>
 
 
-<center> <h1>Curso: Visualización de Datos con enfoque reproducible de Data Science</h1> </center>
+<center> <h1>Curso: Intro al Python con enfoque reproducible</h1> </center>
 
 <br></br>
 
