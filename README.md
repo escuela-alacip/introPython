@@ -32,7 +32,7 @@ La clase se dará en 3 ejercicios:
 
 * Este curso cuenta con el auspicio de:
 <center>
-<img src="ttps://www.python.org/static/img/psf-logo@2x.png" style="width: 200px;"/>
+<img src="https://www.python.org/static/img/psf-logo@2x.png" style="width: 200px;"/>
 </center>
 
 
