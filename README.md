@@ -30,6 +30,10 @@ La clase se dará en 3 ejercicios:
 <img src="https://www.bitss.org/wp-content/uploads/2015/07/bitss-55a55026v1_site_icon.png" style="width: 200px;"/>
 </center>
 
+* Este curso cuenta con el auspicio de:
+<center>
+<img src="ttps://www.python.org/static/img/psf-logo@2x.png" style="width: 200px;"/>
+</center>
 
 
 
