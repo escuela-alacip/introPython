@@ -34,7 +34,7 @@
 **RECONOCIMIENTO**
 
 
-EL Dr. Magallanes agradece al equipo del GI3P de la Pontificia Universidad Católica del Perú, por su apoyo en la participación en la Escuela ALACIP.
+EL Dr. Magallanes agradece al equipo del GI3P de la Pontificia Universidad Católica del Perú, por su apoyo en la preparación de materiales para la Escuela ALACIP.
 
 <center>
 <img src="https://github.com/escuela-alacip/introPython/blob/master/pics/gi3p.png" style="width: 400px;"/>
