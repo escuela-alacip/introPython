@@ -12,14 +12,6 @@
     - Fellow Catalyst, **Berkeley Initiative for Transparency in Social Sciences, UC Berkeley**.
 
 
-La clase se dará en 3 ejercicios:
-
-* <a href="http://rpubs.com/jmagallanes/dataviz1" target="_blank">R y la "Nube"</a>
-
-* <a href="http://rpubs.com/jmagallanes/dataviz2" target="_blank">De R a la web: Caso Univariado</a>
-
-* <a href="http://rpubs.com/jmagallanes/dataviz2" target="_blank">De R a la web: Caso Espacial</a>
-
 
 
 **AUSPICIO**: 
